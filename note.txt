@@ -1,0 +1,5 @@
+- css position 
+- css flexbox 
+- css grid 
+- tailwind basics
+- js basics
